@@ -1,0 +1,75 @@
+.h4{
+	font-weight: 300;
+    font-size: 1.25rem;
+}
+.contant{
+	text-align: center;
+    box-shadow: 0px 0px 25px rgb(0 0 0 / 10%);
+    background-color: #ffffff;
+    border-radius: 15px;
+     padding:50px 30px 63px 30px; 
+    margin-top: 30px;
+}
+.icon{
+	width: 160px;
+    height: 138px;
+  /*  display: inline-block;*/
+    text-align: center;
+   /* line-height: 108px;*/
+    border-radius: 50%;
+    box-shadow: 0px 0px 20px rgb(0 0 0 / 10%);
+   /* -webkit-transition: all .5s;
+    transition: all .5s;*/
+    margin-left: 42px;
+}
+.icon img{
+	max-width: 104px;
+    margin-top: 16px;
+}
+.text-center h4{
+	    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.text-center p{
+	line-height: 26px;
+	font-size: 14px;
+	color: #716f85;
+}
+.heading{
+	padding-right: 11px;
+	margin-top: 28px;
+}
+.heading h2{
+	    font-size: 28px;
+    font-weight: 700;
+    line-height: 48px;
+    color: white;
+}
+.icon1{
+	margin-right: 25px;
+    float: left;
+    width: 70px;
+    height: 70px;
+    display: inline-block;
+    text-align: center;
+    line-height: 92px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 20px rgb(0 0 0 / 10%);
+    background-color: #ffffff;
+    /*-webkit-transition: all .5s;
+    transition: all .5s;*/
+}
+.icon1 i{
+	font-size:42px;
+	color: red; 
+}
+.contant1{
+	    color: white;
+    font-weight: 300;
+    margin-left: 95px;
+    font-size: 14px;
+    line-height: 23px;
+}
+.contant1 h4{
+	margin-bottom: 10px;
+}
