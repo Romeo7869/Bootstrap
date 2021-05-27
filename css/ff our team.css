@@ -1,0 +1,114 @@
+.row1{
+	padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.priyank{
+	    padding-top: 2%;
+    padding-left: 3%;
+}
+.btn1{
+	color: #212529;
+    background-color: #ffc107;
+    border-color: #ffc107;
+    margin-left: 3%;
+}
+.icon{
+	color: #fcb21b
+}
+.box12{
+	text-align: center;
+    color: #fff;
+    position: relative;
+    margin-top: 20px;
+}
+.boxcontant{
+	    padding: 20px;
+    margin-top: -86px
+}
+.boxcontant h3{
+	margin: 0px;
+    font-size: 22px;
+    font-weight: 700;
+}
+.boxcontant span{
+	font-size: 15px;
+}
+
+<!--------- press release----------->
+
+.gh{
+	text-align: center;
+	width: 100%;
+	padding: 0;
+	margin:0;
+}
+.gh li{
+	    width: 270px;
+    display: inline-block;
+    margin: 1px;
+ }
+.gh li a img{
+	width: 100%;
+	    padding: 20px;
+}
+.online{
+	    box-shadow: 0 10px 16px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19)!important;
+    padding: 50px;
+    margin: 60px 100px 80px;
+}
+.scroll{
+	height: 425px;
+    overflow-y: scroll;
+}
+.scroll p{
+	font-size: 14px;
+}
+.scroll a{
+	text-decoration: none;
+	color: black;
+}
+
+<!---------- press release end----->
+
+<!----- contact-------->
+
+.btn2{
+	color: #212529;
+    background-color: #ffc107;
+    border-color: #ffc107;
+}
+.form{
+	margin-bottom: 1rem;
+}
+.contact{
+	padding-right: 70px;
+	padding-left: 70px;
+}
+.contact span{
+	color: #fcb21b;
+}
+.contact p{
+	    font-size: 15px;
+      line-height: 20px;
+}
+.contact a{
+	color: #fcb21b;
+	text-decoration: none;
+}
+
+
+<!----------- contact end---------->
+
+
+<!---------- career ----------->
+
+.career{
+	    padding: 2% 85px;
+}
+.career p{
+	font-size: 15px;
+    line-height: 20px;
+}
+
+<!--------- career end ---------->

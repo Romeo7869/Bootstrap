@@ -1,0 +1,72 @@
+.a{
+	background-color: #00000021;
+}
+.ab{
+	padding-top: 20px;
+    text-transform: uppercase;
+    font-family: prague;
+    letter-spacing: 3px;
+}
+.contant{
+	text-align: justify;
+	    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+.img{
+	box-shadow: 0px 6px 12px 0px;
+    width: 75%;
+     /*   margin-top: 37px;*/
+    margin-bottom: 40px;
+
+}
+.bg1{
+	background-image: url(https://www.firstfiddle.in/assets/images/bannerabout.jpg);
+	background-size: cover;
+	padding-bottom: 100px;
+}
+.bg1 h1{
+	color: white;
+    font-size: 60px;
+    margin-top: 102px;
+}
+.bg1 p{
+	    color: white;
+    line-height: 40px;
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+.bc{
+	padding-top: 20px;
+    font-family: prague;
+    letter-spacing: 3px;
+}
+.bg2{
+	background-image: url(https://www.firstfiddle.in/assets/images/outletbanner.png);
+	background-size: cover;
+	margin-top: 40px;
+	padding-bottom: 100px;
+}
+.bg2 h1{
+	color: white;
+    font-size: 60px;
+    margin-top: 102px;
+}
+.bg2 p{
+	    color: white;
+    line-height: 40px;
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+.footer{
+	background: #111215;
+    padding: 50px;
+    color: white;
+}
+.footer span{
+	color: #fcb21b;
+}
+.footer a{
+	color: #fcb21b;
+	text-decoration: none;
+}
